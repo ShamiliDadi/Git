@@ -10,6 +10,7 @@ int overloading(inta, int b, int c)
 {
 int d;
 d = a+b+c;
+s.o.p("Test Data");
 s.o.p("add is " +d);
 s.o.p("add is" +c);
 }
