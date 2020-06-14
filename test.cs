@@ -1,3 +1,7 @@
+class Test{
+s.o.print("This is a test file");
+s.o.print("This is a test data");
+}
 public class file{
 
 int overloading(int a, int b)
