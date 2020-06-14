@@ -1,3 +1,7 @@
+clas  mater_class{
+print("Sample File");
+print("Sample Data");
+}
 public class file{
 
 int overloading(int a, int b)
