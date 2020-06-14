@@ -1,6 +1,11 @@
 clas  mater_class{
 print("Sample File");
 print("Sample Data");
+
+class Test{
+s.o.print("This is a test file");
+s.o.print("This is a test data");
+
 }
 public class file{
 
