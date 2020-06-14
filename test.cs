@@ -1,3 +1,11 @@
+class stashexample{
+void checkout()
+{
+int bill = puritems * 2;
+print("bill amount is"+ bill);
+}
+}
+
 clas  mater_class{
 print("Sample File");
 print("Sample Data");
