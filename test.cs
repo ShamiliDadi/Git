@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class deposit
 {
 void withdraw(){
@@ -11,9 +12,24 @@ bal = bal + amount;
 }
 }
 
+=======
+class stashexample{
+void checkout()
+{
+int bill = puritems * 2;
+print("bill amount is"+ bill);
+}
+}
+
+clas  mater_class{
+print("Sample File");
+print("Sample Data");
+
+>>>>>>> 275d46548e99894ca356d364a7b2a2d0b5025553
 class Test{
 s.o.print("This is a test file");
 s.o.print("This is a test data");
+
 }
 public class file{
 
