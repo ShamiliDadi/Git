@@ -1,3 +1,9 @@
+class deposit
+{
+void withdraw(){
+bal = bal - withdraw;
+}
+}
 class bank{
 void deposit()
 {
