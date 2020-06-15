@@ -1,3 +1,7 @@
+class testdeletebranch2
+{
+testbranch sample 2!!!!!
+}
 class testdeletebranch{
 test one!!!!
 }
