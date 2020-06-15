@@ -1,3 +1,10 @@
+class bank{
+void deposit()
+{
+bal = bal + amount;
+}
+}
+
 class Test{
 s.o.print("This is a test file");
 s.o.print("This is a test data");
